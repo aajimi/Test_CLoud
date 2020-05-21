@@ -1,2 +1,2 @@
-FROM mysql
+FROM nginx
 
