@@ -1,4 +1,4 @@
 FROM nginx
 
-RUN ls   
+RUN ls /   
 
