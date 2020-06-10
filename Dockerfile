@@ -1,1 +1,3 @@
-from nginx
+From nginx
+
+RUN ls 
